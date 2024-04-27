@@ -9,7 +9,47 @@ body {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.3125rem; /* 116.667% */
-  letter-spacing: 0.54px;
+  line-height: 1.17;
+  letter-spacing: 0.03375rem;
   text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-text {
+  color: #2e2f42;
+}
+.main-menu-list {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.main-menu-list:hover {
+  color: #404bbf;
+}
+
+.main-menu-list:focus {
+  color: #404bbf;
+}
+
+.main-menu-list:active {
+  color: #404bbf;
+}
+
+.address {
+  font-style: normal;
+}
+
+.address-list {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.address-list:hover {
+  color: #404bbf;
+}
+
+.address-list:focus {
+  color: #404bbf;
 }
